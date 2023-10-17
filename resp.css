@@ -1,0 +1,170 @@
+@media(width > 768px){
+    .main{
+        width: 768px;
+    }
+    .p{
+        width: 339px;
+    }
+    .meore{
+        display: flex;
+        flex-direction: row;
+    }
+    .hd{
+        margin-left: 39px;
+        margin-top: 49px;
+    }
+    .ord{
+        margin-left: 40xp;
+    }
+    .pree{
+        width: 175px;
+        height: 58px;
+        background-color: #E8EFF2;
+        border-radius: 8px;
+        margin-top: 40px;
+        margin-left: 450px;
+        }
+    .pre{
+        margin-top: 0;
+    }
+    .rele{
+        margin-top: 10px;
+    }
+    .oh{
+        margin-left: 24px;
+
+        border-radius: 8px;
+        width: 250px;
+        height: 500px;
+    }
+    .ohh{
+        width: 400px;
+        height: 500px;
+        margin-left: 50px;
+    }
+
+    .mec{
+        width: 255px;
+        text-align: left;
+        margin-left: 24px;
+    }
+    .mecc{
+        width: 360px;
+        text-align: left;
+        margin-left: 36px;
+    }
+    .flex{
+        display: flex;
+    }
+    .meotxe{
+        display: grid;
+        grid-template-rows: auto auto auto;
+    }
+    h5{
+        width: 339px;
+    }
+    p{
+        width: 281px;
+    }
+    .main{
+        overflow: visible;
+    }
+    .j1{
+        grid-row: 1/2;
+    }
+    .j2{
+        grid-row: 1/2;
+    }
+    .lui{
+        margin-left: 0px;
+    }
+    h5{
+        text-align: left;
+    }
+    p{
+        text-align: left;
+    }
+    .luito{
+        grid-row: 3/3;
+        margin-left: 200px;
+    }
+}
+@media(width > 1440px){
+    .main{
+        border: 2px solid black;
+        width: 1440px;
+    }
+    .hd{
+        margin-left: 164px;
+
+    }
+    .mesame{
+        display: flex;
+        flex-direction: row;
+    }
+    .flex{
+        display: grid;
+    }
+    .typ{
+        margin-left: 164px;
+        font-size: 56px;
+        width: 445px;
+    }
+    .mec{
+        margin-top: 100px;
+        margin-bottom: 0;
+    }
+    .mecc{
+        margin-top: 0;
+        width: 255px;
+        margin-left: 150px;
+    }
+    .p{
+        margin-left: 164px;
+        font-size: 18px;
+    }
+    .pre{
+        margin-left: 164px;
+    }
+    .oh{
+        margin-left: 164px;
+    }
+    .mec{
+        margin-left: 164px;
+    }
+    .br{
+        width: 640px;
+    height: 500px;
+    margin-bottom: 100px;
+    }
+    .meotxe{
+        display: flex;
+    }
+    h5{
+        width: 255px;
+    }
+    p{
+        width: 255px;
+        margin-right: 30px;
+    }
+    .pree{
+        margin-left: 895px;
+    }
+    .luito{
+        margin-left: 600px;
+    }
+    .meore{
+        background-image: url(src/Group\ 3\ Copy\ 4.svg);
+        background-repeat: no-repeat;
+        background-position: right 0 top 40px;
+    }
+    .mesame{
+        background-image: url(src/Group\ 3\ Copy\ 3.svg);
+        background-repeat: no-repeat;
+        background-position: top 300px left 0;
+
+    }
+    .main{
+        border: 0px;
+    }
+}
